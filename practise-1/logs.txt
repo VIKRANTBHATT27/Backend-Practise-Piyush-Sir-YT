@@ -478,3 +478,113 @@ Time: 10/1/2026, 1:37:16 pm
 IP Address: ::1
 Id: unknown
 
+POST request: /api/users
+Time: 10/1/2026, 6:29:21 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 10/1/2026, 6:30:27 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 10/1/2026, 6:32:46 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 10/1/2026, 6:34:32 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 10/1/2026, 6:35:44 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 10/1/2026, 6:39:51 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /users
+Time: 10/1/2026, 6:42:03 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /api/users
+Time: 10/1/2026, 6:42:40 pm
+IP Address: ::1
+Id: unknown
+
+PATCH request: /api/users/6960ed3a30308143f04e55ae
+Time: 19/1/2026, 11:02:24 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 19/1/2026, 11:03:40 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 19/1/2026, 11:05:45 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 19/1/2026, 11:06:25 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 19/1/2026, 11:07:17 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /users
+Time: 19/1/2026, 11:08:56 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /users
+Time: 19/1/2026, 11:09:02 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /users
+Time: 19/1/2026, 11:10:24 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /users
+Time: 19/1/2026, 11:10:39 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 19/1/2026, 11:11:09 pm
+IP Address: ::1
+Id: unknown
+
+POST request: /api/users
+Time: 19/1/2026, 11:12:21 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /api/users/6960ed3a30308143f04e55ae
+Time: 19/1/2026, 11:12:44 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /api/users/696e6cfddec2e9408c0bc9c0
+Time: 19/1/2026, 11:12:47 pm
+IP Address: ::1
+Id: unknown
+
+GET request: /api/users/696e6cfddec2e9408c0bc9c0
+Time: 19/1/2026, 11:12:57 pm
+IP Address: ::1
+Id: unknown
+
