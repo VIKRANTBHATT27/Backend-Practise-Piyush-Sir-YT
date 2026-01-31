@@ -18,8 +18,8 @@ const handleGenerateShortUrl = async (req, res) => {
      try {
           const redirectingUrl = url[url.length-1] != '/' ? url + '/' : url;
           const response = await urlModel.findOne({ redirectingUrl });
-
-          if (response.length != 0) {
+          
+          if (response !== null) {
                return res.status(200).json(
                     {
                          msg: "URL already exists in DB",
